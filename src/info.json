@@ -1,0 +1,17 @@
+{
+  "identifier": "eudic.word.book.plugin",
+  "version": "0.1.2",
+  "category": "translate",
+  "name": "Eudic word book",
+  "summary": "Eudic word book plugin, add word to Eudic word book",
+  "icon": "",
+  "author": "Jack Jun",
+  "minBobVersion": "0.5.4",
+  "options": [
+    {
+      "identifier": "login_cookie",
+      "type": "text",
+      "title": "EudicWebSession"
+    }
+  ]
+}
